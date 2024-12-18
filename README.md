@@ -1,1 +1,9 @@
 # -2.4-js-
+Токен при регистрации: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NjJhNTM0Y2UxOGQwMWIwMDJiNjYwYiIsInVzZXJuYW1lIjoiZWx2aXJhZWx2IiwiZXhwIjoxNzM5NzAyMDY5LCJpYXQiOjE3MzQ1MTgwNjl9.tzTKzN3KIc4VShjm3Emw1aXOKh6uQDQ62R9leHx_Gww
+![1](https://github.com/user-attachments/assets/3ffb9e5f-d50e-41d0-b239-3a5cdfa385ed)
+
+Токен при авторизации: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NjJhNTM0Y2UxOGQwMWIwMDJiNjYwYiIsInVzZXJuYW1lIjoiZWx2aXJhZWx2IiwiZXhwIjoxNzM5NzAyNjcxLCJpYXQiOjE3MzQ1MTg2NzF9.7LFT0lpA5JRma_ey8Gv9fVUbTNkWuSIvj43Uoax_ii4
+![2](https://github.com/user-attachments/assets/69875d79-a3a8-49ee-948d-befa8a3eef30)
+
+Токен при получении пользователя: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NjJhNTM0Y2UxOGQwMWIwMDJiNjYwYiIsInVzZXJuYW1lIjoiZWx2aXJhZWx2IiwiZXhwIjoxNzM5NzAyODM5LCJpYXQiOjE3MzQ1MTg4Mzl9.S2aY0tzG4iMjy0G3EETxPTAJXcodHinRaXgGZ_eKgY8
+![3](https://github.com/user-attachments/assets/9a2df7a9-df8f-438a-9ea2-752ea7d3762a)
